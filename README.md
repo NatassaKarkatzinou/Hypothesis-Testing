@@ -20,8 +20,8 @@ Each section includes:
 | III | Two-Sample Tests |
 | IV | Categorical Tests |
 | V | ANOVA |
-| VI | Correlation, Power, and Effect Size |
-| VII | Decision Map for Hypothesis Testing |
+| VI | Supplementrary & Diagnostic Tools |
+| VII | Decision Map for Choosing the Right Test |
 
 ---
 
